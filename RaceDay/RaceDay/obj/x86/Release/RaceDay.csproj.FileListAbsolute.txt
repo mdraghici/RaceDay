@@ -1,0 +1,7 @@
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\bin\Release\RaceDay.exe
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\bin\Release\RaceDay.pdb
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Release\RaceDay.Form1.resources
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Release\RaceDay.Properties.Resources.resources
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Release\RaceDay.csproj.GenerateResource.Cache
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Release\RaceDay.exe
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Release\RaceDay.pdb

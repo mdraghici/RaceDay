@@ -1,0 +1,8 @@
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Debug\RaceDay.Form1.resources
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Debug\RaceDay.Properties.Resources.resources
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Debug\RaceDay.csproj.GenerateResource.Cache
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\bin\Debug\RaceDay.exe
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\bin\Debug\RaceDay.pdb
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Debug\RaceDay.exe
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Debug\RaceDay.pdb
+D:\Temporar Folder\Exercitii C#\RaceDay\RaceDay\obj\x86\Debug\RaceDay.csprojResolveAssemblyReference.cache
